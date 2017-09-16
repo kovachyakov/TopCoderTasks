@@ -1,0 +1,14 @@
+C:\Users\yakov\source\repos\EllysChocolates\EllysChocolates\bin\Debug\EllysChocolates.exe.config
+C:\Users\yakov\source\repos\EllysChocolates\EllysChocolates\bin\Debug\EllysChocolates.exe
+C:\Users\yakov\source\repos\EllysChocolates\EllysChocolates\bin\Debug\EllysChocolates.pdb
+C:\Users\yakov\source\repos\EllysChocolates\EllysChocolates\obj\Debug\EllysChocolates.csprojResolveAssemblyReference.cache
+C:\Users\yakov\source\repos\EllysChocolates\EllysChocolates\obj\Debug\EllysChocolates.csproj.CoreCompileInputs.cache
+C:\Users\yakov\source\repos\EllysChocolates\EllysChocolates\obj\Debug\EllysChocolates.exe
+C:\Users\yakov\source\repos\EllysChocolates\EllysChocolates\obj\Debug\EllysChocolates.pdb
+C:\Users\yakov\source\repos\EllysChocolates!\EllysChocolates\bin\Debug\EllysChocolates.exe.config
+C:\Users\yakov\source\repos\EllysChocolates!\EllysChocolates\bin\Debug\EllysChocolates.exe
+C:\Users\yakov\source\repos\EllysChocolates!\EllysChocolates\bin\Debug\EllysChocolates.pdb
+C:\Users\yakov\source\repos\EllysChocolates!\EllysChocolates\obj\Debug\EllysChocolates.csprojResolveAssemblyReference.cache
+C:\Users\yakov\source\repos\EllysChocolates!\EllysChocolates\obj\Debug\EllysChocolates.csproj.CoreCompileInputs.cache
+C:\Users\yakov\source\repos\EllysChocolates!\EllysChocolates\obj\Debug\EllysChocolates.exe
+C:\Users\yakov\source\repos\EllysChocolates!\EllysChocolates\obj\Debug\EllysChocolates.pdb

@@ -1,0 +1,7 @@
+C:\Users\yakov\source\repos\Cross\Cross\bin\Debug\Cross.exe.config
+C:\Users\yakov\source\repos\Cross\Cross\bin\Debug\Cross.exe
+C:\Users\yakov\source\repos\Cross\Cross\bin\Debug\Cross.pdb
+C:\Users\yakov\source\repos\Cross\Cross\obj\Debug\Cross.csprojResolveAssemblyReference.cache
+C:\Users\yakov\source\repos\Cross\Cross\obj\Debug\Cross.csproj.CoreCompileInputs.cache
+C:\Users\yakov\source\repos\Cross\Cross\obj\Debug\Cross.exe
+C:\Users\yakov\source\repos\Cross\Cross\obj\Debug\Cross.pdb

@@ -1,0 +1,13 @@
+c:\users\yakov\documents\visual studio 2017\Projects\triengl\triengl\bin\Debug\triengl.exe.config
+c:\users\yakov\documents\visual studio 2017\Projects\triengl\triengl\bin\Debug\triengl.exe
+c:\users\yakov\documents\visual studio 2017\Projects\triengl\triengl\bin\Debug\triengl.pdb
+c:\users\yakov\documents\visual studio 2017\Projects\triengl\triengl\obj\Debug\triengl.csprojResolveAssemblyReference.cache
+c:\users\yakov\documents\visual studio 2017\Projects\triengl\triengl\obj\Debug\triengl.exe
+c:\users\yakov\documents\visual studio 2017\Projects\triengl\triengl\obj\Debug\triengl.pdb
+C:\Users\yakov\source\repos\triengl\triengl\bin\Debug\triengl.exe.config
+C:\Users\yakov\source\repos\triengl\triengl\bin\Debug\triengl.exe
+C:\Users\yakov\source\repos\triengl\triengl\bin\Debug\triengl.pdb
+C:\Users\yakov\source\repos\triengl\triengl\obj\Debug\triengl.csprojResolveAssemblyReference.cache
+C:\Users\yakov\source\repos\triengl\triengl\obj\Debug\triengl.csproj.CoreCompileInputs.cache
+C:\Users\yakov\source\repos\triengl\triengl\obj\Debug\triengl.exe
+C:\Users\yakov\source\repos\triengl\triengl\obj\Debug\triengl.pdb
