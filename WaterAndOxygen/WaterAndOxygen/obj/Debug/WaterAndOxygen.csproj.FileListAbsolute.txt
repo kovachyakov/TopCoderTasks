@@ -1,0 +1,14 @@
+C:\Users\yakov\source\repos\WaterAndOxygen\WaterAndOxygen\bin\Debug\WaterAndOxygen.exe.config
+C:\Users\yakov\source\repos\WaterAndOxygen\WaterAndOxygen\bin\Debug\WaterAndOxygen.exe
+C:\Users\yakov\source\repos\WaterAndOxygen\WaterAndOxygen\bin\Debug\WaterAndOxygen.pdb
+C:\Users\yakov\source\repos\WaterAndOxygen\WaterAndOxygen\obj\Debug\WaterAndOxygen.csprojResolveAssemblyReference.cache
+C:\Users\yakov\source\repos\WaterAndOxygen\WaterAndOxygen\obj\Debug\WaterAndOxygen.csproj.CoreCompileInputs.cache
+C:\Users\yakov\source\repos\WaterAndOxygen\WaterAndOxygen\obj\Debug\WaterAndOxygen.exe
+C:\Users\yakov\source\repos\WaterAndOxygen\WaterAndOxygen\obj\Debug\WaterAndOxygen.pdb
+C:\Users\yakov\source\repos\WaterAndOxygen---\WaterAndOxygen\bin\Debug\WaterAndOxygen.exe.config
+C:\Users\yakov\source\repos\WaterAndOxygen---\WaterAndOxygen\bin\Debug\WaterAndOxygen.exe
+C:\Users\yakov\source\repos\WaterAndOxygen---\WaterAndOxygen\bin\Debug\WaterAndOxygen.pdb
+C:\Users\yakov\source\repos\WaterAndOxygen---\WaterAndOxygen\obj\Debug\WaterAndOxygen.csprojResolveAssemblyReference.cache
+C:\Users\yakov\source\repos\WaterAndOxygen---\WaterAndOxygen\obj\Debug\WaterAndOxygen.csproj.CoreCompileInputs.cache
+C:\Users\yakov\source\repos\WaterAndOxygen---\WaterAndOxygen\obj\Debug\WaterAndOxygen.exe
+C:\Users\yakov\source\repos\WaterAndOxygen---\WaterAndOxygen\obj\Debug\WaterAndOxygen.pdb
